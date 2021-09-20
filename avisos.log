@@ -1,0 +1,116 @@
+[2021-09-19 23:54:05] [ INFO ] [PacienteServiceTest:38] Optional.empty
+[2021-09-19 23:54:05] [ INFO ] [PacienteServiceTest:55] []
+[2021-09-19 23:54:05] [ INFO ] [PacienteServiceTest:43] Paciente{id=1, nombre='Larita', apellido='Schneeberger', dni='43000000', fechaIngreso=2021-09-19, domicilio=tandil}
+[2021-09-19 23:54:05] [ INFO ] [PacienteServiceTest:44] Optional[Paciente{id=1, nombre='Larita', apellido='Schneeberger', dni='43000000', fechaIngreso=2021-09-19, domicilio=tandil}]
+[2021-09-19 23:54:05] [ INFO ] [PacienteServiceTest:50] Optional.empty
+[2021-09-19 23:57:54] [ INFO ] [PacienteServiceTest:38] Optional.empty
+[2021-09-19 23:57:54] [ INFO ] [PacienteServiceTest:55] []
+[2021-09-19 23:57:54] [ INFO ] [PacienteServiceTest:43] Paciente{id=1, nombre='Larita', apellido='Schneeberger', dni='43000000', fechaIngreso=2021-09-19, domicilio=tandil}
+[2021-09-19 23:57:55] [ INFO ] [PacienteServiceTest:44] Optional[Paciente{id=1, nombre='Larita', apellido='Schneeberger', dni='43000000', fechaIngreso=2021-09-19, domicilio=tandil}]
+[2021-09-19 23:57:55] [ INFO ] [PacienteServiceTest:50] Optional.empty
+[2021-09-20 00:11:53] [ INFO ] [PacienteServiceTest:38] Optional.empty
+[2021-09-20 00:11:53] [ INFO ] [PacienteServiceTest:59] []
+[2021-09-20 00:11:53] [ INFO ] [PacienteServiceTest:54] Optional.empty
+[2021-09-20 00:13:19] [ INFO ] [PacienteServiceTest:38] Optional.empty
+[2021-09-20 00:13:19] [ INFO ] [PacienteServiceTest:59] []
+[2021-09-20 00:13:19] [ INFO ] [PacienteServiceTest:32] Optional[Paciente{id=1, nombre='Lari', apellido='Schneeberger', dni='43000000', fechaIngreso=2021-09-20, domicilio=tandil}]
+[2021-09-20 00:13:19] [ INFO ] [PacienteServiceTest:33] Optional[Paciente{id=2, nombre='Santi', apellido='Lamberti', dni='44000000', fechaIngreso=2021-09-20, domicilio=palermo}]
+[2021-09-20 00:13:19] [ INFO ] [PacienteServiceTest:54] Optional.empty
+[2021-09-20 00:14:14] [ INFO ] [PacienteServiceTest:38] Optional.empty
+[2021-09-20 00:14:14] [ INFO ] [PacienteServiceTest:59] []
+[2021-09-20 00:14:14] [ INFO ] [PacienteServiceTest:32] Optional[Paciente{id=1, nombre='Lari', apellido='Schneeberger', dni='43000000', fechaIngreso=2021-09-20, domicilio=tandil}]
+[2021-09-20 00:14:14] [ INFO ] [PacienteServiceTest:33] Optional[Paciente{id=2, nombre='Santi', apellido='Lamberti', dni='44000000', fechaIngreso=2021-09-20, domicilio=palermo}]
+[2021-09-20 00:14:14] [ INFO ] [PacienteServiceTest:54] Optional.empty
+[2021-09-20 00:17:49] [ INFO ] [PacienteServiceTest:38] Optional.empty
+[2021-09-20 00:17:49] [ INFO ] [PacienteServiceTest:59] []
+[2021-09-20 00:17:49] [ INFO ] [PacienteServiceTest:54] Optional.empty
+[2021-09-20 00:23:19] [ INFO ] [PacienteServiceTest:38] Optional.empty
+[2021-09-20 00:23:19] [ INFO ] [PacienteServiceTest:59] []
+[2021-09-20 00:23:19] [ INFO ] [PacienteServiceTest:54] Optional.empty
+[2021-09-20 00:26:07] [ INFO ] [PacienteServiceTest:38] Optional.empty
+[2021-09-20 00:26:07] [ INFO ] [PacienteServiceTest:59] []
+[2021-09-20 00:26:08] [ INFO ] [PacienteServiceTest:54] Optional.empty
+[2021-09-20 00:28:53] [ INFO ] [PacienteServiceTest:38] Optional.empty
+[2021-09-20 00:28:53] [ INFO ] [PacienteServiceTest:60] []
+[2021-09-20 00:28:53] [ INFO ] [PacienteServiceTest:49] Optional[Paciente{, nombre='Larita', apellido='Schneeberger', dni='43000000', fechaIngreso=2021-09-20, domicilio=tandil}]
+[2021-09-20 00:28:53] [ INFO ] [PacienteServiceTest:55] Optional.empty
+[2021-09-20 00:30:40] [ INFO ] [PacienteServiceTest:38] Optional.empty
+[2021-09-20 00:30:40] [ INFO ] [PacienteServiceTest:60] []
+[2021-09-20 00:30:40] [ INFO ] [PacienteServiceTest:55] Optional.empty
+[2021-09-20 00:32:42] [ INFO ] [PacienteServiceTest:38] Optional.empty
+[2021-09-20 00:32:42] [ INFO ] [PacienteServiceTest:60] []
+[2021-09-20 00:32:42] [ INFO ] [PacienteServiceTest:32] Optional[Paciente{id=1, nombre='Lari', apellido='Schneeberger', dni='43000000', fechaIngreso=2021-09-20, domicilio=tandil}]
+[2021-09-20 00:32:42] [ INFO ] [PacienteServiceTest:33] Optional[Paciente{id=2, nombre='Santi', apellido='Lamberti', dni='44000000', fechaIngreso=2021-09-20, domicilio=palermo}]
+[2021-09-20 00:32:42] [ INFO ] [PacienteServiceTest:55] Optional.empty
+[2021-09-20 00:44:41] [ INFO ] [PacienteServiceTest:41] Optional.empty
+[2021-09-20 00:44:41] [ INFO ] [PacienteServiceTest:66] []
+[2021-09-20 00:44:41] [ INFO ] [PacienteServiceTest:61] Optional.empty
+[2021-09-20 00:45:35] [ INFO ] [PacienteServiceTest:41] Optional.empty
+[2021-09-20 00:45:35] [ INFO ] [PacienteServiceTest:67] []
+[2021-09-20 00:45:35] [ INFO ] [PacienteServiceTest:62] Optional.empty
+[2021-09-20 00:47:37] [ INFO ] [PacienteServiceTest:41] Optional.empty
+[2021-09-20 00:47:37] [ INFO ] [PacienteServiceTest:69] []
+[2021-09-20 00:47:37] [ INFO ] [PacienteServiceTest:64] Optional.empty
+[2021-09-20 00:54:18] [ INFO ] [PacienteServiceTest:41] Optional.empty
+[2021-09-20 00:54:18] [ INFO ] [PacienteServiceTest:67] []
+[2021-09-20 00:54:18] [ INFO ] [PacienteServiceTest:56] Optional[Paciente{id=1, nombre='Larita', apellido='Schneeberger', dni='43000000', fechaIngreso=2021-09-20, domicilio=tandil}]
+[2021-09-20 00:54:19] [ INFO ] [PacienteServiceTest:62] Optional.empty
+[2021-09-20 00:55:06] [ INFO ] [PacienteServiceTest:41] Optional.empty
+[2021-09-20 00:55:06] [ INFO ] [PacienteServiceTest:67] []
+[2021-09-20 00:55:06] [ INFO ] [PacienteServiceTest:35] Optional[Paciente{id=1, nombre='Lari', apellido='Schneeberger', dni='43000000', fechaIngreso=2021-09-20, domicilio=tandil}]
+[2021-09-20 00:55:07] [ INFO ] [PacienteServiceTest:36] Optional[Paciente{id=2, nombre='Santi', apellido='Lamberti', dni='44000000', fechaIngreso=2021-09-20, domicilio=palermo}]
+[2021-09-20 00:55:07] [ INFO ] [PacienteServiceTest:62] Optional.empty
+[2021-09-20 01:04:49] [ INFO ] [PacienteServiceTest:51] Optional.empty
+[2021-09-20 01:04:50] [ INFO ] [PacienteServiceTest:76] []
+[2021-09-20 01:04:50] [ INFO ] [PacienteServiceTest:65] Optional[Paciente{id=1, nombre='Larita', apellido='Schneeberger', dni='43000000', fechaIngreso=2021-09-20, domicilio=tandil}]
+[2021-09-20 01:04:50] [ INFO ] [PacienteServiceTest:45] Optional[Paciente{id=2, nombre='Lari', apellido='Schneeberger', dni='43000000', fechaIngreso=2021-09-20, domicilio=tandil}]
+[2021-09-20 01:04:50] [ INFO ] [PacienteServiceTest:46] Optional[Paciente{id=3, nombre='Santi', apellido='Lamberti', dni='44000000', fechaIngreso=2021-09-20, domicilio=palermo}]
+[2021-09-20 01:04:50] [ INFO ] [PacienteServiceTest:71] Optional.empty
+[2021-09-20 01:09:04] [ INFO ] [PacienteServiceTest:52] Optional[Paciente{id=1, nombre='Lari', apellido='Schneeberger', dni='43000000', fechaIngreso=2021-09-20, domicilio=tandil}]
+[2021-09-20 01:09:04] [ INFO ] [PacienteServiceTest:76] [Paciente{id=3, nombre='Lari', apellido='Schneeberger', dni='43000000', fechaIngreso=2021-09-20, domicilio=tandil}, Paciente{id=4, nombre='Santi', apellido='Lamberti', dni='44000000', fechaIngreso=2021-09-20, domicilio=palermo}]
+[2021-09-20 01:09:04] [ INFO ] [PacienteServiceTest:65] Optional[Paciente{id=5, nombre='Larita', apellido='Schneeberger', dni='43000000', fechaIngreso=2021-09-20, domicilio=tandil}]
+[2021-09-20 01:09:04] [ INFO ] [PacienteServiceTest:46] Optional[Paciente{id=7, nombre='Lari', apellido='Schneeberger', dni='43000000', fechaIngreso=2021-09-20, domicilio=tandil}]
+[2021-09-20 01:09:04] [ INFO ] [PacienteServiceTest:47] Optional[Paciente{id=8, nombre='Santi', apellido='Lamberti', dni='44000000', fechaIngreso=2021-09-20, domicilio=palermo}]
+[2021-09-20 01:09:04] [ INFO ] [PacienteServiceTest:71] Optional.empty
+[2021-09-20 01:10:54] [ INFO ] [PacienteServiceTest:51] Optional[Paciente{id=1, nombre='Lari', apellido='Schneeberger', dni='43000000', fechaIngreso=2021-09-20, domicilio=tandil}]
+[2021-09-20 01:10:54] [ INFO ] [PacienteServiceTest:79] [Paciente{id=2, nombre='Lari', apellido='Schneeberger', dni='43000000', fechaIngreso=2021-09-20, domicilio=tandil}, Paciente{id=3, nombre='Santi', apellido='Lamberti', dni='44000000', fechaIngreso=2021-09-20, domicilio=palermo}]
+[2021-09-20 01:10:54] [ INFO ] [PacienteServiceTest:65] Optional[Paciente{id=4, nombre='Larita', apellido='Schneeberger', dni='43000000', fechaIngreso=2021-09-20, domicilio=tandil}]
+[2021-09-20 01:10:55] [ INFO ] [PacienteServiceTest:44] Optional[Paciente{id=5, nombre='Lari', apellido='Schneeberger', dni='43000000', fechaIngreso=2021-09-20, domicilio=tandil}]
+[2021-09-20 01:10:55] [ INFO ] [PacienteServiceTest:45] Optional[Paciente{id=6, nombre='Santi', apellido='Lamberti', dni='44000000', fechaIngreso=2021-09-20, domicilio=palermo}]
+[2021-09-20 01:10:55] [ INFO ] [PacienteServiceTest:72] Optional.empty
+[2021-09-20 12:30:08] [ INFO ] [PatientServiceTest:69] Optional.empty
+[2021-09-20 12:30:09] [ INFO ] [PatientServiceTest:62] Optional[Patient{id=2, dni=43000000, name='Larita', lastName='Schneeberger', dateOfRegistration=2021-09-20, address='tandil'}]
+[2021-09-20 12:30:09] [ INFO ] [PatientServiceTest:41] Optional[Patient{id=3, dni=43000000, name='Lari', lastName='Schneeberger', dateOfRegistration=2021-09-20, address='tandil'}]
+[2021-09-20 12:30:09] [ INFO ] [PatientServiceTest:42] Optional[Patient{id=4, dni=44000000, name='Santi', lastName='Lamberti', dateOfRegistration=2021-09-20, address='palermo'}]
+[2021-09-20 12:30:09] [ INFO ] [PatientServiceTest:48] Optional[Patient{id=5, dni=43000000, name='Lari', lastName='Schneeberger', dateOfRegistration=2021-09-20, address='tandil'}]
+[2021-09-20 12:30:09] [ INFO ] [PatientServiceTest:76] [Patient{id=6, dni=43000000, name='Lari', lastName='Schneeberger', dateOfRegistration=2021-09-20, address='tandil'}, Patient{id=7, dni=44000000, name='Santi', lastName='Lamberti', dateOfRegistration=2021-09-20, address='palermo'}]
+[2021-09-20 12:31:40] [ INFO ] [PatientServiceTest:69] Optional.empty
+[2021-09-20 12:31:40] [ INFO ] [PatientServiceTest:62] Optional[Patient{id=2, dni=43000000, name='Larita', lastName='Schneeberger', dateOfRegistration=2021-09-20, address='tandil'}]
+[2021-09-20 12:31:40] [ INFO ] [PatientServiceTest:41] Optional[Patient{id=3, dni=43000000, name='Lari', lastName='Schneeberger', dateOfRegistration=2021-09-20, address='tandil'}]
+[2021-09-20 12:31:40] [ INFO ] [PatientServiceTest:42] Optional[Patient{id=4, dni=44000000, name='Santi', lastName='Lamberti', dateOfRegistration=2021-09-20, address='palermo'}]
+[2021-09-20 12:31:40] [ INFO ] [PatientServiceTest:48] Optional[Patient{id=5, dni=43000000, name='Lari', lastName='Schneeberger', dateOfRegistration=2021-09-20, address='tandil'}]
+[2021-09-20 12:31:40] [ INFO ] [PatientServiceTest:76] [Patient{id=6, dni=43000000, name='Lari', lastName='Schneeberger', dateOfRegistration=2021-09-20, address='tandil'}, Patient{id=7, dni=44000000, name='Santi', lastName='Lamberti', dateOfRegistration=2021-09-20, address='palermo'}]
+[2021-09-20 12:32:32] [ INFO ] [OdontologistServiceTest:70] Optional.empty
+[2021-09-20 12:32:32] [ INFO ] [OdontologistServiceTest:63] Optional[Odontologist{id=2, name='Larita', lastName='Schneeberger', licenseNumber=43000000}]
+[2021-09-20 12:32:32] [ INFO ] [OdontologistServiceTest:42] Optional[Odontologist{id=3, name='Lari', lastName='Schneeberger', licenseNumber=43000000}]
+[2021-09-20 12:32:32] [ INFO ] [OdontologistServiceTest:43] Optional[Odontologist{id=4, name='Santi', lastName='Lamberti', licenseNumber=44000000}]
+[2021-09-20 12:32:32] [ INFO ] [OdontologistServiceTest:49] Optional[Odontologist{id=5, name='Lari', lastName='Schneeberger', licenseNumber=43000000}]
+[2021-09-20 12:32:32] [ INFO ] [OdontologistServiceTest:77] [Odontologist{id=6, name='Lari', lastName='Schneeberger', licenseNumber=43000000}, Odontologist{id=7, name='Santi', lastName='Lamberti', licenseNumber=44000000}]
+[2021-09-20 12:32:33] [ INFO ] [PatientServiceTest:69] Optional.empty
+[2021-09-20 12:32:33] [ INFO ] [PatientServiceTest:62] Optional[Patient{id=2, dni=43000000, name='Larita', lastName='Schneeberger', dateOfRegistration=2021-09-20, address='tandil'}]
+[2021-09-20 12:32:33] [ INFO ] [PatientServiceTest:41] Optional[Patient{id=3, dni=43000000, name='Lari', lastName='Schneeberger', dateOfRegistration=2021-09-20, address='tandil'}]
+[2021-09-20 12:32:33] [ INFO ] [PatientServiceTest:42] Optional[Patient{id=4, dni=44000000, name='Santi', lastName='Lamberti', dateOfRegistration=2021-09-20, address='palermo'}]
+[2021-09-20 12:32:33] [ INFO ] [PatientServiceTest:48] Optional[Patient{id=5, dni=43000000, name='Lari', lastName='Schneeberger', dateOfRegistration=2021-09-20, address='tandil'}]
+[2021-09-20 12:32:33] [ INFO ] [PatientServiceTest:76] [Patient{id=6, dni=43000000, name='Lari', lastName='Schneeberger', dateOfRegistration=2021-09-20, address='tandil'}, Patient{id=7, dni=44000000, name='Santi', lastName='Lamberti', dateOfRegistration=2021-09-20, address='palermo'}]
+[2021-09-20 14:30:13] [ INFO ] [OdontologistServiceTest:70] Optional.empty
+[2021-09-20 14:30:14] [ INFO ] [OdontologistServiceTest:63] Optional[Odontologist{id=2, name='Larita', lastName='Schneeberger', licenseNumber=43000000}]
+[2021-09-20 14:30:14] [ INFO ] [OdontologistServiceTest:42] Optional[Odontologist{id=3, name='Lari', lastName='Schneeberger', licenseNumber=43000000}]
+[2021-09-20 14:30:14] [ INFO ] [OdontologistServiceTest:43] Optional[Odontologist{id=4, name='Santi', lastName='Lamberti', licenseNumber=44000000}]
+[2021-09-20 14:30:14] [ INFO ] [OdontologistServiceTest:49] Optional[Odontologist{id=5, name='Lari', lastName='Schneeberger', licenseNumber=43000000}]
+[2021-09-20 14:30:14] [ INFO ] [OdontologistServiceTest:77] [Odontologist{id=6, name='Lari', lastName='Schneeberger', licenseNumber=43000000}, Odontologist{id=7, name='Santi', lastName='Lamberti', licenseNumber=44000000}]
+[2021-09-20 14:30:14] [ INFO ] [PatientServiceTest:69] Optional.empty
+[2021-09-20 14:30:14] [ INFO ] [PatientServiceTest:62] Optional[Patient{id=2, dni=43000000, name='Larita', lastName='Schneeberger', dateOfRegistration=2021-09-20, address='tandil'}]
+[2021-09-20 14:30:14] [ INFO ] [PatientServiceTest:41] Optional[Patient{id=3, dni=43000000, name='Lari', lastName='Schneeberger', dateOfRegistration=2021-09-20, address='tandil'}]
+[2021-09-20 14:30:14] [ INFO ] [PatientServiceTest:42] Optional[Patient{id=4, dni=44000000, name='Santi', lastName='Lamberti', dateOfRegistration=2021-09-20, address='palermo'}]
+[2021-09-20 14:30:14] [ INFO ] [PatientServiceTest:48] Optional[Patient{id=5, dni=43000000, name='Lari', lastName='Schneeberger', dateOfRegistration=2021-09-20, address='tandil'}]
+[2021-09-20 14:30:14] [ INFO ] [PatientServiceTest:76] [Patient{id=6, dni=43000000, name='Lari', lastName='Schneeberger', dateOfRegistration=2021-09-20, address='tandil'}, Patient{id=7, dni=44000000, name='Santi', lastName='Lamberti', dateOfRegistration=2021-09-20, address='palermo'}]
