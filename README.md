@@ -1,7 +1,7 @@
 # proyecto-integrador-backend-1
 
 SECCIÓN JAVA - SPRING BOOT
-- En este proyecto muestro el ABM de Patient y de Odontologists terminado
+- En este proyecto muestro el ABM de Patients y de Odontologists terminado
 
 
 SECCIÓN REACT
