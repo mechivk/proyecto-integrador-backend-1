@@ -9,4 +9,4 @@ SECCIÓN REACT
 
 
 TESTS
-- Si desean realizar tests, por favor hacerlo desde Postman
+- Si desean realizar tests extras, por favor hacerlo desde Postman
