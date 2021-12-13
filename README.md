@@ -1,7 +1,7 @@
-# proyecto-integrador-backend-1
+# Clínica odontológica - Trabajo Final Back End I
 
-SECCIÓN JAVA - SPRING BOOT
-- En este proyecto muestro el ABM de Patients y de Odontologists terminado
+
+En este proyecto se desarrolló una API de una clínica odontológica, en la que se permiten crear, borrar y modificar Pacientes, Odontólogos y Turnos.
 
 
 SECCIÓN REACT
