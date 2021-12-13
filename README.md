@@ -2,11 +2,6 @@
 
 
 En este proyecto se desarrolló una API de una clínica odontológica, en la que se permiten crear, borrar y modificar Pacientes, Odontólogos y Turnos.
+El Back end fue desarrollado con Java, utilizando SpringBoot, y realizando tests con Junit y Postman.
+La parte de Front end fue realizada utilizando React JS
 
-
-SECCIÓN REACT
-- Estoy desarrollando el frontEnd con React pero todavía no se encuentran en funcionamiento
-
-
-TESTS
-- Si desean realizar tests extras, por favor hacerlo desde Postman
