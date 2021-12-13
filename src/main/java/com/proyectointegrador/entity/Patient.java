@@ -1,11 +1,15 @@
 package com.proyectointegrador.entity;
 
+import com.fasterxml.jackson.annotation.JsonBackReference;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import com.fasterxml.jackson.annotation.JsonManagedReference;
 import com.sun.istack.NotNull;
 import lombok.Getter;
 import lombok.Setter;
 
 import javax.persistence.*;
 import java.time.LocalDate;
+import java.util.List;
 
 @Entity
 @Table
@@ -28,16 +32,25 @@ public class Patient {
     private String lastName;
 
     @Column
-    private LocalDate dateOfRegistration;
+    private LocalDate dateOfRegistration = LocalDate.now();
 
     @Column(length = 100)
     private String address;
+
+    @OneToMany(cascade = CascadeType.ALL, mappedBy = "patient")
+    @JsonBackReference
+    @JsonIgnoreProperties({"hibernateLazyInitializer", "handler"})
+    private List<Appointment> appointments;
+
+    @OneToOne(fetch = FetchType.LAZY, cascade = CascadeType.ALL)
+    @JsonIgnoreProperties({"hibernateLazyInitializer", "handler"})
+    @JoinColumn(name = "user")
+    private User user;
 
     public Patient(){};
 
 
     public Patient(String name, String lastName, Integer dni, String address) {
-
         this.name = name;
         this.lastName = lastName;
         this.dni = dni;

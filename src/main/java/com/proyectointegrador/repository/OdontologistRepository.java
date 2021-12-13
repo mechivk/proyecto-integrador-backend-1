@@ -11,6 +11,7 @@ import java.util.Optional;
 @Repository
 public interface OdontologistRepository extends JpaRepository<Odontologist, Long> {
     Optional<Odontologist> findByLicenseNumber(Integer licenseNumber);
+    Optional<Odontologist> findByLastName(String lastName);
 
     @Transactional
     void deleteByLicenseNumber(Integer licenseNumber);

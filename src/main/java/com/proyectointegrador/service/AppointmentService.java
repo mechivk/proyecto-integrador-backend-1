@@ -1,36 +1,58 @@
 package com.proyectointegrador.service;
 
 import com.proyectointegrador.entity.Appointment;
+import com.proyectointegrador.entity.Odontologist;
+import com.proyectointegrador.entity.Patient;
+import com.proyectointegrador.repository.AppointmentRepository;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.time.LocalDateTime;
 import java.util.List;
 import java.util.Optional;
 
 @Service
-public class AppointmentService implements IService<Appointment>{
+public class AppointmentService{
 
-    @Override
-    public Appointment register(Appointment appointment) {
-        return null;
+    private final AppointmentRepository appointmentRepository;
+
+    @Autowired
+    public AppointmentService(AppointmentRepository appointmentRepository) {
+        this.appointmentRepository = appointmentRepository;
     }
 
-    @Override
-    public Optional<Appointment> find(Integer id) {
-        return Optional.empty();
+    public Appointment add(Appointment appointment) {
+        return appointmentRepository.save(appointment);
     }
 
-    @Override
+    public Optional<List<Appointment>> findByPatient(Patient patient) {
+        return appointmentRepository.findByPatient(patient);
+    }
+
+    public Optional<List<Appointment>> findByOdontologist(Odontologist odontologist) {
+        return appointmentRepository.findByOdontologist(odontologist);
+    }
+
+    public Optional<Appointment> find(LocalDateTime date, Odontologist odontologist){
+        return appointmentRepository.findByDateAndOdontologist(date, odontologist);
+    }
+
+    public Optional<Appointment> findById(Integer id){
+        return appointmentRepository.findById(id);
+    }
+
+
     public Appointment update(Appointment appointment) {
-        return null;
+        return appointmentRepository.save(appointment);
     }
 
-    @Override
-    public void delete(Integer id) {
-
+    public void delete(Appointment appointment) {
+        appointmentRepository.deleteById(appointment.getId());
     }
 
-    @Override
     public List<Appointment> list() {
-        return null;
+        System.out.println(appointmentRepository.findAll());
+        return appointmentRepository.findAll();
+
     }
 }

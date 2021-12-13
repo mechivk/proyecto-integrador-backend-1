@@ -114,3 +114,222 @@
 [2021-09-20 14:30:14] [ INFO ] [PatientServiceTest:42] Optional[Patient{id=4, dni=44000000, name='Santi', lastName='Lamberti', dateOfRegistration=2021-09-20, address='palermo'}]
 [2021-09-20 14:30:14] [ INFO ] [PatientServiceTest:48] Optional[Patient{id=5, dni=43000000, name='Lari', lastName='Schneeberger', dateOfRegistration=2021-09-20, address='tandil'}]
 [2021-09-20 14:30:14] [ INFO ] [PatientServiceTest:76] [Patient{id=6, dni=43000000, name='Lari', lastName='Schneeberger', dateOfRegistration=2021-09-20, address='tandil'}, Patient{id=7, dni=44000000, name='Santi', lastName='Lamberti', dateOfRegistration=2021-09-20, address='palermo'}]
+[2021-09-22 15:52:49] [ INFO ] [OdontologistController:22] Odontologist{id=null, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-23 18:19:38] [ INFO ] [OdontologistController:22] Odontologist{id=null, name='null', lastName='null', licenseNumber=null}
+[2021-09-23 18:30:32] [ INFO ] [OdontologistController:22] Odontologist{id=null, name='null', lastName='null', licenseNumber=null}
+[2021-09-23 18:34:45] [ INFO ] [OdontologistController:22] Odontologist{id=null, name='null', lastName='null', licenseNumber=null}
+[2021-09-23 18:42:15] [ INFO ] [OdontologistController:22] Odontologist{id=null, name='null', lastName='null', licenseNumber=null}
+[2021-09-23 18:49:12] [ INFO ] [OdontologistController:22] Odontologist{id=null, name='null', lastName='null', licenseNumber=null}
+[2021-09-23 19:05:41] [ INFO ] [OdontologistController:22] Odontologist{id=null, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-23 19:16:33] [ INFO ] [OdontologistController:22] Odontologist{id=null, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-23 19:27:55] [ INFO ] [OdontologistController:22] Odontologist{id=null, name='mechi', lastName='vankeulen', licenseNumber=40134526}
+[2021-09-23 19:33:56] [ INFO ] [OdontologistController:22] Odontologist{id=null, name='mechi', lastName='van keulen', licenseNumber=40134526}
+[2021-09-23 19:39:24] [ INFO ] [OdontologistController:23] Odontologist{id=null, name='mehi', lastName='van keulen', licenseNumber=40134526}
+[2021-09-23 19:44:25] [ INFO ] [OdontologistController:23] Odontologist{id=null, name='mechi', lastName='van keulen ', licenseNumber=40134526}
+[2021-09-23 19:45:33] [ INFO ] [OdontologistController:23] Odontologist{id=null, name='lari', lastName='sc', licenseNumber=15550000}
+[2021-09-23 19:48:18] [ INFO ] [OdontologistController:23] Odontologist{id=null, name='mechi', lastName='vanke', licenseNumber=40134526}
+[2021-09-23 19:53:08] [ INFO ] [OdontologistController:23] Odontologist{id=null, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-23 19:53:30] [ INFO ] [OdontologistController:23] Odontologist{id=null, name='lari', lastName='sc', licenseNumber=4502222}
+[2021-09-23 19:58:28] [ INFO ] [OdontologistController:23] Odontologist{id=null, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-23 20:15:50] [ INFO ] [OdontologistController:23] Odontologist{id=null, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-23 20:24:47] [ INFO ] [OdontologistController:23] Odontologist{id=null, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-23 20:32:23] [ INFO ] [OdontologistController:23] Odontologist{id=null, name='mechi', lastName='van keulen', licenseNumber=40134526}
+[2021-09-23 20:33:21] [ INFO ] [OdontologistController:23] Odontologist{id=null, name='mechi', lastName='mechi', licenseNumber=40134526}
+[2021-09-23 20:48:25] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-23 20:52:37] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-23 20:55:36] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-23 20:59:15] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-23 21:01:11] [ INFO ] [OdontologistController:26] Odontologist{id=2, name='mechi', lastName='vk', licenseNumber=555555}
+[2021-09-23 21:04:57] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-23 21:05:16] [ INFO ] [OdontologistController:26] Odontologist{id=2, name='mechi', lastName='vk', licenseNumber=55555555}
+[2021-09-23 21:07:36] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-23 21:08:02] [ INFO ] [OdontologistController:26] Odontologist{id=2, name='mechi', lastName='vk', licenseNumber=589545689}
+[2021-09-23 21:24:40] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-23 21:35:39] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mech', lastName='vk', licenseNumber=40134526}
+[2021-09-23 21:35:54] [ INFO ] [OdontologistController:26] Odontologist{id=2, name='mechi', lastName='vk ', licenseNumber=555555}
+[2021-09-23 22:32:20] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='undefined', lastName='undefined', licenseNumber=40134526}
+[2021-09-23 22:33:22] [ INFO ] [OdontologistController:26] Odontologist{id=2, name='undefined', lastName='undefined', licenseNumber=4555555}
+[2021-09-23 22:36:52] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='undefined', lastName='undefined', licenseNumber=4000000}
+[2021-09-23 23:20:38] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='', lastName='', licenseNumber=null}
+[2021-09-23 23:25:02] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-23 23:27:40] [ INFO ] [OdontologistController:26] Odontologist{id=2, name='luli', lastName='lala', licenseNumber=4555555}
+[2021-09-23 23:36:54] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-23 23:49:42] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-23 23:50:05] [ INFO ] [OdontologistController:26] Odontologist{id=2, name='mechi', lastName='lari', licenseNumber=4555555}
+[2021-09-23 23:54:26] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-23 23:54:48] [ INFO ] [OdontologistController:26] Odontologist{id=2, name='lari', lastName='meme', licenseNumber=4555555}
+[2021-09-23 23:57:59] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mechi', lastName='van keulen', licenseNumber=40134526}
+[2021-09-23 23:58:13] [ INFO ] [OdontologistController:26] Odontologist{id=2, name='lari', lastName='lala', licenseNumber=4555555}
+[2021-09-24 00:02:22] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=4555555}
+[2021-09-24 00:02:37] [ INFO ] [OdontologistController:26] Odontologist{id=2, name='mechi ', lastName='van keulen', licenseNumber=40134526}
+[2021-09-24 00:03:21] [ INFO ] [OdontologistController:26] Odontologist{id=3, name='lari', lastName='maa', licenseNumber=4565656}
+[2021-09-24 00:13:20] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-24 00:14:59] [ INFO ] [OdontologistController:26] Odontologist{id=2, name='LARI', lastName='ME', licenseNumber=455555}
+[2021-09-24 00:26:50] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mechi', lastName='lara', licenseNumber=40134526}
+[2021-09-24 00:36:47] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-24 00:38:54] [ INFO ] [OdontologistController:26] Odontologist{id=2, name='lari', lastName='m', licenseNumber=4555555}
+[2021-09-24 00:39:13] [ INFO ] [OdontologistController:26] Odontologist{id=3, name='mechi', lastName='vk', licenseNumber=848484}
+[2021-09-24 00:42:02] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mechi', lastName='me', licenseNumber=40134526}
+[2021-09-24 00:42:39] [ INFO ] [OdontologistController:26] Odontologist{id=2, name='merced', lastName='sf', licenseNumber=454654}
+[2021-09-24 00:45:38] [ INFO ] [OdontologistController:26] Odontologist{id=3, name='mechi', lastName='fffff', licenseNumber=45454646}
+[2021-09-24 00:50:34] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mechi', lastName='va', licenseNumber=40134526}
+[2021-09-24 00:52:51] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-24 00:55:02] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mechi', lastName='v', licenseNumber=40134526}
+[2021-09-24 00:57:54] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mehi', lastName='v', licenseNumber=40134526}
+[2021-09-24 00:59:53] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='ghjg', lastName='gjgyj', licenseNumber=55}
+[2021-09-24 01:02:48] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mechi', lastName='v', licenseNumber=45}
+[2021-09-24 01:03:47] [ INFO ] [OdontologistController:26] Odontologist{id=2, name='sfs', lastName='sdfs', licenseNumber=55}
+[2021-09-24 14:27:20] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-24 14:27:56] [ INFO ] [OdontologistController:26] Odontologist{id=2, name='gfhbfg', lastName='gfgfdg', licenseNumber=1651615}
+[2021-09-24 14:37:14] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-24 15:06:39] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-24 15:22:20] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='fdgfd', lastName='dfgd', licenseNumber=5445}
+[2021-09-24 15:26:04] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mechi', lastName='srgskjld', licenseNumber=40134526}
+[2021-09-24 15:29:02] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='gghf', lastName='gfhfgh', licenseNumber=40134526}
+[2021-09-24 15:39:01] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-24 15:41:46] [ INFO ] [OdontologistController:26] Odontologist{id=2, name='hghhgj', lastName='ghjhg', licenseNumber=455454}
+[2021-09-24 16:43:34] [ INFO ] [OdontologistController:26] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-24 17:17:17] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='tfhdfthg', lastName='gdgd', licenseNumber=454545}
+[2021-09-24 17:23:22] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='jghj', lastName='gjhgj', licenseNumber=45643465}
+[2021-09-24 17:26:32] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='ghh', lastName='ghhg', licenseNumber=4555555}
+[2021-09-24 17:28:49] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='gfgff', lastName='gfggfg', licenseNumber=542454}
+[2021-09-24 17:30:58] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='fdgdfg', lastName='dgdfgfd', licenseNumber=434345434}
+[2021-09-24 17:33:03] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='fdgdf', lastName='dgdfgg', licenseNumber=4555}
+[2021-09-24 17:33:47] [ INFO ] [OdontologistController:28] Odontologist{id=2, name='sfsdf', lastName='sdfsdfds', licenseNumber=4554536}
+[2021-09-24 17:35:23] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='gdg', lastName='dfgfdg', licenseNumber=4444}
+[2021-09-24 17:35:51] [ INFO ] [OdontologistController:28] Odontologist{id=2, name='fdgfd', lastName='fdfgdfgd', licenseNumber=44444}
+[2021-09-24 17:37:49] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='dffd', lastName='', licenseNumber=null}
+[2021-09-24 17:38:05] [ INFO ] [OdontologistController:28] Odontologist{id=2, name='dfdfd', lastName='dfdfdf', licenseNumber=64545}
+[2021-09-24 17:42:07] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='fhgf', lastName='fghfghf', licenseNumber=454554}
+[2021-09-24 17:45:38] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='dfgdf', lastName='fdgdfgd', licenseNumber=543245345}
+[2021-09-24 17:46:46] [ INFO ] [OdontologistController:28] Odontologist{id=2, name='dfgdfg', lastName='dfgdfgdf', licenseNumber=45555}
+[2021-09-24 17:51:51] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='gfhfgh', lastName='fghfgh', licenseNumber=4444}
+[2021-09-24 17:55:40] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='fdgdf', lastName='fdgfd', licenseNumber=543463}
+[2021-09-24 17:58:37] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='dfsdf', lastName='sfsdf', licenseNumber=54456}
+[2021-09-24 18:18:16] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='hgjghj', lastName='ghfgh', licenseNumber=544532}
+[2021-09-24 18:21:54] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='bnvn', lastName='bvnvb', licenseNumber=5445245}
+[2021-09-25 14:36:49] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='vcxv', lastName='cvcxv', licenseNumber=465464}
+[2021-09-25 14:39:06] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='sdfsd', lastName='sdfsdf', licenseNumber=453453}
+[2021-09-25 14:44:41] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='bfgdfg', lastName='fdgdfg', licenseNumber=456486}
+[2021-09-25 14:44:59] [ INFO ] [OdontologistController:28] Odontologist{id=2, name='ghfgh', lastName='gfhfgh', licenseNumber=4564564}
+[2021-09-25 14:48:53] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='dfhdfg', lastName='dfgdfg', licenseNumber=45645}
+[2021-09-25 14:51:06] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-25 15:09:47] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='sdfsdf', lastName='sdfsdf', licenseNumber=52542}
+[2021-09-25 15:24:02] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-25 15:27:10] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='sdfs', lastName='sdsdf', licenseNumber=4536453}
+[2021-09-25 15:30:29] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='sdfsdf', lastName='sfsdf', licenseNumber=4546574}
+[2021-09-25 15:38:56] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='sdfs', lastName='sdfsdfs', licenseNumber=4564645}
+[2021-09-25 15:40:07] [ INFO ] [OdontologistController:28] Odontologist{id=3, name='dsfsd', lastName='dsfsdf', licenseNumber=4444}
+[2021-09-25 15:44:00] [ INFO ] [OdontologistController:28] Odontologist{id=4, name='dfdsf', lastName='sdfsf', licenseNumber=45455}
+[2021-09-25 15:47:21] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='sdfsdf', lastName='sfsdfsd', licenseNumber=null}
+[2021-09-25 15:50:10] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='dssdffd', lastName='sfsdfsd', licenseNumber=6666}
+[2021-09-25 15:50:20] [ INFO ] [OdontologistController:28] Odontologist{id=2, name='mechi', lastName='vk', licenseNumber=45445}
+[2021-09-25 15:51:07] [ INFO ] [OdontologistController:28] Odontologist{id=3, name='mechi', lastName='lala', licenseNumber=455666}
+[2021-09-25 15:51:18] [ INFO ] [OdontologistController:28] Odontologist{id=4, name='mami', lastName='laura', licenseNumber=78787}
+[2021-09-25 15:52:32] [ INFO ] [OdontologistController:28] Odontologist{id=5, name='mecbhi', lastName='jsklfjn', licenseNumber=546542}
+[2021-09-25 15:56:25] [ INFO ] [OdontologistController:28] Odontologist{id=6, name='ffcgcb', lastName='vcbcvb', licenseNumber=456456}
+[2021-09-25 16:13:35] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-25 16:16:58] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-25 16:17:08] [ INFO ] [OdontologistController:28] Odontologist{id=2, name='mami', lastName='laura', licenseNumber=45555}
+[2021-09-25 16:29:48] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='mechi', lastName='van keulen', licenseNumber=40134526}
+[2021-09-25 16:30:00] [ INFO ] [OdontologistController:28] Odontologist{id=2, name='lala', lastName='lala', licenseNumber=4013}
+[2021-09-25 16:33:01] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=4526}
+[2021-09-25 16:35:06] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-25 16:56:25] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=40134526}
+[2021-09-25 16:58:26] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='sdfsd', lastName='sfsdf', licenseNumber=44}
+[2021-09-25 17:04:05] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='sdfs', lastName='sfsdf', licenseNumber=444}
+[2021-09-25 17:09:30] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='dsfsd', lastName='la', licenseNumber=444}
+[2021-09-25 17:09:50] [ INFO ] [OdontologistController:28] Odontologist{id=2, name='mechi', lastName='vk', licenseNumber=5555}
+[2021-09-25 17:17:14] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=455}
+[2021-09-25 17:17:21] [ INFO ] [OdontologistController:28] Odontologist{id=2, name='larue', lastName='man', licenseNumber=422}
+[2021-09-25 17:22:39] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=4545}
+[2021-09-25 17:22:52] [ INFO ] [OdontologistController:28] Odontologist{id=2, name='mechi', lastName='vkk', licenseNumber=488}
+[2021-09-25 17:31:49] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='mee', lastName='vk', licenseNumber=44}
+[2021-09-25 17:32:08] [ INFO ] [OdontologistController:28] Odontologist{id=2, name='sddsd', lastName='fff', licenseNumber=4555}
+[2021-09-25 17:39:01] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=455}
+[2021-09-25 17:39:10] [ INFO ] [OdontologistController:28] Odontologist{id=2, name='memo', lastName='ki', licenseNumber=4888}
+[2021-09-25 17:42:37] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='dfsd', lastName='fefe', licenseNumber=455}
+[2021-09-25 17:42:46] [ INFO ] [OdontologistController:28] Odontologist{id=2, name='gsg', lastName='gege', licenseNumber=77}
+[2021-09-25 17:49:51] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=455}
+[2021-09-25 17:50:08] [ INFO ] [OdontologistController:28] Odontologist{id=2, name='meme', lastName='baba', licenseNumber=885}
+[2021-09-25 17:55:01] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='xcx', lastName='d', licenseNumber=44}
+[2021-09-25 17:55:09] [ INFO ] [OdontologistController:28] Odontologist{id=2, name='dfd', lastName='ddd', licenseNumber=4}
+[2021-09-25 17:57:45] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='me', lastName='md', licenseNumber=44}
+[2021-09-25 17:58:02] [ INFO ] [OdontologistController:28] Odontologist{id=3, name='ff', lastName='fefe', licenseNumber=55}
+[2021-09-25 18:09:37] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=5555}
+[2021-09-25 18:09:45] [ INFO ] [OdontologistController:28] Odontologist{id=2, name='mami', lastName='lau', licenseNumber=777}
+[2021-09-25 18:10:17] [ INFO ] [OdontologistController:28] Odontologist{id=3, name='sdfsdf', lastName='dsfsdf', licenseNumber=444}
+[2021-09-25 18:22:01] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='mechi ', lastName='vk', licenseNumber=88}
+[2021-09-25 18:22:08] [ INFO ] [OdontologistController:28] Odontologist{id=2, name='lala', lastName='la', licenseNumber=77}
+[2021-09-25 18:24:35] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=44}
+[2021-09-25 18:24:43] [ INFO ] [OdontologistController:28] Odontologist{id=2, name='lolo', lastName='lai', licenseNumber=777}
+[2021-09-25 18:27:50] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=88}
+[2021-09-25 18:28:00] [ INFO ] [OdontologistController:28] Odontologist{id=2, name='mami', lastName='laurita', licenseNumber=999}
+[2021-09-25 18:51:51] [ INFO ] [OdontologistController:31] Patient{id=1, dni=401, name='mechi', lastName='vk', dateOfRegistration=null, address='aranguren 22'}
+[2021-09-25 18:58:03] [ INFO ] [OdontologistController:31] Patient{id=1, dni=444, name='dfdf', lastName='sdfsdf', dateOfRegistration=null, address='gdfg'}
+[2021-09-25 18:58:23] [ INFO ] [OdontologistController:31] Patient{id=2, dni=4444444, name='mechi', lastName='vk', dateOfRegistration=null, address='sfsdf'}
+[2021-09-25 18:58:43] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='lala', lastName='fff', licenseNumber=777}
+[2021-09-25 19:30:54] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=455}
+[2021-09-25 19:38:40] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='mechi', lastName='bk', licenseNumber=888}
+[2021-09-25 19:40:30] [ INFO ] [OdontologistController:28] Odontologist{id=1, name='mechi', lastName='vk', licenseNumber=444}
+[2021-09-25 19:42:10] [ INFO ] [OdontologistController:31] Patient{id=1, dni=4455, name='drgdfg', lastName='dfgdfg', dateOfRegistration=null, address='dfsdf'}
+[2021-09-25 19:46:15] [ INFO ] [OdontologistController:31] Patient{id=1, dni=7854, name='thfth', lastName='ghfgh', dateOfRegistration=null, address='hfhh'}
+[2021-09-25 19:52:21] [ INFO ] [OdontologistController:31] Patient{id=1, dni=45645, name='fdgdf', lastName='fdgdf', dateOfRegistration=null, address='dfgdf'}
+[2021-09-25 19:55:58] [ INFO ] [OdontologistController:31] Patient{id=1, dni=44, name='mechi', lastName='vk', dateOfRegistration=null, address='dd'}
+[2021-09-25 20:00:36] [ INFO ] [OdontologistController:31] Patient{id=1, dni=4, name='ds', lastName='s', dateOfRegistration=null, address='ddd'}
+[2021-09-25 20:02:45] [ INFO ] [OdontologistController:31] Patient{id=1, dni=55555, name='mechi', lastName='vk', dateOfRegistration=null, address='aranguren'}
+[2021-09-25 20:16:44] [ INFO ] [OdontologistController:31] Patient{id=1, dni=4555, name='mechi', lastName='vk', dateOfRegistration=null, address='ddd'}
+[2021-09-25 20:21:10] [ INFO ] [OdontologistController:31] Patient{id=1, dni=444, name='mechi', lastName='ffff', dateOfRegistration=null, address='dfgsfs'}
+[2021-09-25 20:28:39] [ INFO ] [OdontologistController:31] Patient{id=1, dni=2222, name='mechiq', lastName='kfff', dateOfRegistration=null, address='slfns'}
+[2021-09-25 20:31:15] [ INFO ] [OdontologistController:31] Patient{id=1, dni=44444, name='leo', lastName='leooo', dateOfRegistration=null, address='ffff'}
+[2021-09-25 20:35:01] [ INFO ] [OdontologistController:31] Patient{id=1, dni=4444, name='leo', lastName='nolegusta', dateOfRegistration=null, address='dddd'}
+[2021-09-26 13:10:31] [ INFO ] [OdontologistController:38] Appointment{id=2, patient=null, odontologist=null, description='null', date=null}
+[2021-09-26 13:11:08] [ INFO ] [OdontologistController:38] Appointment{id=3, patient=null, odontologist=null, description='null', date=null}
+[2021-09-28 11:58:01] [ INFO ] [OdontologistController:43] Appointment{id=1, patient=Patient{id=1, dni=40134526, name='Mechi', lastName='van Keulen', dateOfRegistration=2021-09-28, address='flores'}, odontologist=Odontologist{id=1, name='Laura', lastName='Tanga', licenseNumber=40134526}, description='normal checkup', date=2022-02-27T11:30}
+[2021-09-28 12:28:56] [ INFO ] [OdontologistController:43] Appointment{id=3, patient=Patient{id=1, dni=40134526, name='Mechi', lastName='van Keulen', dateOfRegistration=2021-09-28, address='flores'}, odontologist=Odontologist{id=1, name='Laura', lastName='Tanga', licenseNumber=40134526}, description='normal checkup', date=2022-02-27T11:30}
+[2021-09-29 20:46:52] [ INFO ] [OdontologistController:28] Odontologist{id=3, name='Mechi', lastName='lala', licenseNumber=788888}
+[2021-09-29 20:47:46] [ INFO ] [OdontologistController:31] Patient{id=3, dni=4555555, name='Leo', lastName='Rodriguex', dateOfRegistration=2021-09-29, address='Mendoza'}
+[2021-09-30 15:12:31] [ ERROR] [OdontologistController:99] Ocurrió un error al añadir un turno
+[2021-09-30 15:13:39] [ ERROR] [OdontologistController:100] Ocurrió un error al añadir un turno
+[2021-09-30 22:06:11] [ INFO ] [OdontologistController:48] Appointment{id=3, patient=Patient{id=1, dni=40134526, name='Mechi', lastName='van Keulen', dateOfRegistration=2021-09-30, address='flores'}, odontologist=Odontologist{id=1, name='Laura', lastName='Tanga', licenseNumber=454888}, description='null', date=2022-02-26T10:30}
+[2021-09-30 22:20:21] [ INFO ] [OdontologistController:48] Appointment{id=3, patient=Patient{id=1, dni=40134526, name='Mechi', lastName='van Keulen', dateOfRegistration=2021-09-30, address='flores'}, odontologist=Odontologist{id=1, name='Laura', lastName='Tanga', licenseNumber=454888}, description='null', date=2022-02-26T10:30}
+[2021-10-01 12:44:15] [ INFO ] [AppointmentController:54] Appointment{id=3, patient=Patient{id=1, dni=40134526, name='Mechi', lastName='van Keulen', dateOfRegistration=2021-10-01, address='flores'}, odontologist=Odontologist{id=1, name='Laura', lastName='Tanga', licenseNumber=454888}, description='ftghdfg', date=2222-02-20T10:30}
+[2021-10-01 12:45:28] [ ERROR] [AppointmentController:61] No tiene autorización
+[2021-10-01 14:36:46] [ ERROR] [LoginController:41] Usuario no encontrado
+[2021-10-01 16:00:07] [ INFO ] [OdontologistController:28] Odontologist{id=3, name='dsfs', lastName='sdfsd', licenseNumber=54554564}
+[2021-10-01 17:00:26] [ ERROR] [LoginController:48] Usuario no encontrado
+[2021-10-01 17:00:28] [ ERROR] [LoginController:48] Usuario no encontrado
+[2021-10-01 17:00:32] [ ERROR] [LoginController:48] Usuario no encontrado
+[2021-10-01 17:00:33] [ ERROR] [LoginController:48] Usuario no encontrado
+[2021-10-01 17:00:54] [ ERROR] [LoginController:48] Usuario no encontrado
+[2021-10-01 17:01:08] [ ERROR] [LoginController:48] Usuario no encontrado
+[2021-10-01 17:28:01] [ INFO ] [OdontologistServiceTest:42] Optional[Odontologist{id=3, name='Lari', lastName='Schneeberger', licenseNumber=43000000}]
+[2021-10-01 17:28:01] [ INFO ] [OdontologistServiceTest:43] Optional[Odontologist{id=4, name='Santi', lastName='Lamberti', licenseNumber=44000000}]
+[2021-10-01 17:43:04] [ INFO ] [OdontologistServiceTest:44] Optional[Odontologist{id=3, name='Lari', lastName='Schneeberger', licenseNumber=43000000}]
+[2021-10-01 17:43:04] [ INFO ] [OdontologistServiceTest:45] Optional[Odontologist{id=4, name='Santi', lastName='Lamberti', licenseNumber=44000000}]
+[2021-10-01 17:43:41] [ INFO ] [OdontologistServiceTest:72] Optional.empty
+[2021-10-01 17:43:41] [ INFO ] [OdontologistServiceTest:65] Optional[Odontologist{id=4, name='Larita', lastName='Schneeberger', licenseNumber=43000000}]
+[2021-10-01 17:43:41] [ INFO ] [OdontologistServiceTest:44] Optional[Odontologist{id=5, name='Lari', lastName='Schneeberger', licenseNumber=43000000}]
+[2021-10-01 17:43:41] [ INFO ] [OdontologistServiceTest:45] Optional[Odontologist{id=6, name='Santi', lastName='Lamberti', licenseNumber=44000000}]
+[2021-10-01 17:43:41] [ INFO ] [OdontologistServiceTest:51] Optional[Odontologist{id=7, name='Lari', lastName='Schneeberger', licenseNumber=43000000}]
+[2021-10-01 17:43:41] [ INFO ] [OdontologistServiceTest:79] [Odontologist{id=1, name='Laura', lastName='Tanga', licenseNumber=454888}, Odontologist{id=2, name='Mila', lastName='Nesa', licenseNumber=499685}, Odontologist{id=8, name='Lari', lastName='Schneeberger', licenseNumber=43000000}, Odontologist{id=9, name='Santi', lastName='Lamberti', licenseNumber=44000000}]
+[2021-10-01 17:43:41] [ INFO ] [PatientServiceTest:69] Optional.empty
+[2021-10-01 17:43:41] [ INFO ] [PatientServiceTest:62] Optional[Patient{id=4, dni=43000000, name='Larita', lastName='Schneeberger', dateOfRegistration=2021-10-01, address='tandil'}]
+[2021-10-01 17:43:42] [ INFO ] [PatientServiceTest:41] Optional[Patient{id=5, dni=43000000, name='Lari', lastName='Schneeberger', dateOfRegistration=2021-10-01, address='tandil'}]
+[2021-10-01 17:43:42] [ INFO ] [PatientServiceTest:42] Optional[Patient{id=6, dni=44000000, name='Santi', lastName='Lamberti', dateOfRegistration=2021-10-01, address='palermo'}]
+[2021-10-01 17:43:42] [ INFO ] [PatientServiceTest:48] Optional[Patient{id=7, dni=43000000, name='Lari', lastName='Schneeberger', dateOfRegistration=2021-10-01, address='tandil'}]
+[2021-10-01 17:43:42] [ INFO ] [PatientServiceTest:76] [Patient{id=1, dni=40134526, name='Mechi', lastName='van Keulen', dateOfRegistration=2021-10-01, address='flores'}, Patient{id=2, dni=4400000, name='Lari', lastName='Schneeberger', dateOfRegistration=2021-10-01, address='tandil'}, Patient{id=8, dni=43000000, name='Lari', lastName='Schneeberger', dateOfRegistration=2021-10-01, address='tandil'}, Patient{id=9, dni=44000000, name='Santi', lastName='Lamberti', dateOfRegistration=2021-10-01, address='palermo'}]
+[2021-10-01 22:53:20] [ INFO ] [OdontologistServiceTest:73] Optional.empty
+[2021-10-01 22:53:20] [ INFO ] [OdontologistServiceTest:66] Optional[Odontologist{id=4, name='Larita', lastName='Schneeberger', licenseNumber=43000000}]
+[2021-10-01 22:53:20] [ INFO ] [OdontologistServiceTest:45] Optional[Odontologist{id=5, name='Lari', lastName='Schneeberger', licenseNumber=43000000}]
+[2021-10-01 22:53:20] [ INFO ] [OdontologistServiceTest:46] Optional[Odontologist{id=6, name='Santi', lastName='Lamberti', licenseNumber=44000000}]
+[2021-10-01 22:53:20] [ INFO ] [OdontologistServiceTest:52] Optional[Odontologist{id=7, name='Lari', lastName='Schneeberger', licenseNumber=43000000}]
+[2021-10-01 22:53:20] [ INFO ] [OdontologistServiceTest:80] [Odontologist{id=1, name='Laura', lastName='Tanga', licenseNumber=454888}, Odontologist{id=2, name='Mila', lastName='Nesa', licenseNumber=499685}, Odontologist{id=8, name='Lari', lastName='Schneeberger', licenseNumber=43000000}, Odontologist{id=9, name='Santi', lastName='Lamberti', licenseNumber=44000000}]
+[2021-10-01 22:53:21] [ INFO ] [PatientServiceTest:69] Optional.empty
+[2021-10-01 22:53:21] [ INFO ] [PatientServiceTest:62] Optional[Patient{id=4, dni=43000000, name='Larita', lastName='Schneeberger', dateOfRegistration=2021-10-01, address='tandil'}]
+[2021-10-01 22:53:21] [ INFO ] [PatientServiceTest:41] Optional[Patient{id=5, dni=43000000, name='Lari', lastName='Schneeberger', dateOfRegistration=2021-10-01, address='tandil'}]
+[2021-10-01 22:53:21] [ INFO ] [PatientServiceTest:42] Optional[Patient{id=6, dni=44000000, name='Santi', lastName='Lamberti', dateOfRegistration=2021-10-01, address='palermo'}]
+[2021-10-01 22:53:21] [ INFO ] [PatientServiceTest:48] Optional[Patient{id=7, dni=43000000, name='Lari', lastName='Schneeberger', dateOfRegistration=2021-10-01, address='tandil'}]
+[2021-10-01 22:53:21] [ INFO ] [PatientServiceTest:76] [Patient{id=1, dni=40134526, name='Mechi', lastName='van Keulen', dateOfRegistration=2021-10-01, address='flores'}, Patient{id=2, dni=4400000, name='Lari', lastName='Schneeberger', dateOfRegistration=2021-10-01, address='tandil'}, Patient{id=8, dni=43000000, name='Lari', lastName='Schneeberger', dateOfRegistration=2021-10-01, address='tandil'}, Patient{id=9, dni=44000000, name='Santi', lastName='Lamberti', dateOfRegistration=2021-10-01, address='palermo'}]
+[2021-10-01 22:56:06] [ INFO ] [OdontologistController:33] Odontologist{id=3, name='Pedri', lastName='vk', licenseNumber=666}
+[2021-10-01 22:57:17] [ INFO ] [AppointmentController:52] Appointment{id=3, patient=Patient{id=1, dni=40134526, name='Mechi', lastName='van Keulen', dateOfRegistration=2021-10-01, address='flores'}, odontologist=Odontologist{id=1, name='Laura', lastName='Tanga', licenseNumber=454888}, description='control', date=1555-02-26T10:30}

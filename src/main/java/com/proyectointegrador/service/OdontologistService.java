@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Optional;
 
 @Service
-public class OdontologistService implements IService<Odontologist> {
+public class OdontologistService {
 
     private final OdontologistRepository odontologistRepository;
 
@@ -18,27 +18,26 @@ public class OdontologistService implements IService<Odontologist> {
         this.odontologistRepository = odontologoRepository;
     }
 
-    @Override
     public Odontologist register(Odontologist odontologo) {
         return odontologistRepository.save(odontologo);
     }
 
-    @Override
-    public Optional<Odontologist> find(Integer licenseNumber) {
+    public Optional<Odontologist> findbyLicenseNumber(Integer licenseNumber) {
         return odontologistRepository.findByLicenseNumber(licenseNumber);
     }
 
-    @Override
+    public Optional<Odontologist> findbyLastName(String lastName) {
+        return odontologistRepository.findByLastName(lastName);
+    }
+
     public Odontologist update(Odontologist odontologo) {
         return odontologistRepository.save(odontologo);
     }
 
-    @Override
     public void delete(Integer licenseNumber) {
         odontologistRepository.deleteByLicenseNumber(licenseNumber);
     }
 
-    @Override
     public List<Odontologist> list() {
         return odontologistRepository.findAll();
     }

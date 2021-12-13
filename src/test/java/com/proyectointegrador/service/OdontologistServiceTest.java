@@ -9,10 +9,12 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.context.ContextConfiguration;
 
 import static org.junit.Assert.assertEquals;
 
-@SpringBootTest(classes = {ProyectoIntegradorApplication.class})
+
+@SpringBootTest
 class OdontologistServiceTest {
 
     Logger log = Logger.getLogger(OdontologistServiceTest.class);
@@ -26,6 +28,7 @@ class OdontologistServiceTest {
     void setUp() {
         odontologist = new Odontologist("Lari", "Schneeberger", 43000000);
         odontologist1 = new Odontologist("Santi", "Lamberti", 44000000);
+
     }
 
     @AfterEach
@@ -39,35 +42,35 @@ class OdontologistServiceTest {
     void register() {
         odontologistService.register(odontologist);
         odontologistService.register(odontologist1);
-        log.info(odontologistService.find(odontologist.getLicenseNumber()));
-        log.info(odontologistService.find(odontologist1.getLicenseNumber()));
+        log.info(odontologistService.findbyLicenseNumber(odontologist.getLicenseNumber()));
+        log.info(odontologistService.findbyLicenseNumber(odontologist1.getLicenseNumber()));
     }
 
     @Test
     void find() {
         odontologistService.register(odontologist);
-        log.info(odontologistService.find(odontologist.getLicenseNumber()));
+        log.info(odontologistService.findbyLicenseNumber(odontologist.getLicenseNumber()));
     }
 
     @Test
     void update() {
         Odontologist odontologist2 = new Odontologist("Larita", "Schneeberger", 43000000);
         odontologistService.register(odontologist);
-        Odontologist odontologist3 = odontologistService.find(odontologist.getLicenseNumber()).get();
-        odontologist = odontologistService.find(odontologist.getLicenseNumber()).get();
+        Odontologist odontologist3 = odontologistService.findbyLicenseNumber(odontologist.getLicenseNumber()).get();
+        odontologist = odontologistService.findbyLicenseNumber(odontologist.getLicenseNumber()).get();
 
         odontologist.setUpdateData(odontologist2);
         odontologist3.setUpdateData(odontologist2);
         odontologistService.update(odontologist3);
         assertEquals(odontologist3.toString(), odontologist.toString());
-        log.info((odontologistService.find(43000000)));
+        log.info((odontologistService.findbyLicenseNumber(43000000)));
     }
 
     @Test
     void delete() {
         odontologistService.register(odontologist1);
         odontologistService.delete(44000000);
-        log.info(odontologistService.find(44000000));
+        log.info(odontologistService.findbyLicenseNumber(44000000));
     }
 
     @Test
